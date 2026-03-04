@@ -1,5 +1,7 @@
 # PenCraft Studio
 
+![PenCraft Studio](docs/pencraft.png)
+
 A 3D pen turning simulator that lets you shape virtual pen blanks on a lathe, choose from 10 real wood species with procedural grain shaders, and see your design take shape in real time.
 
 Built with React, TypeScript, Three.js, and procedural GLSL shaders.
